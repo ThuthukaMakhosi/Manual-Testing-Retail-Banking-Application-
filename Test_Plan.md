@@ -6,7 +6,10 @@ Ensure core banking features function accurately and securely.
 
 ## Test Types
 
-Functional Testing Negative Testing Regression Testing Usability Testing
+Functional Testing 
+Negative Testing 
+Regression Testing 
+Usability Testing
 
 ## Entry Criteria
 
