@@ -1,8 +1,8 @@
-##Banking Application – Manual Testing Project
+# Banking Application – Manual Testing Project
 
 This project demonstrates manual QA testing skills applied to a simulated banking application. It includes structured test documentation such as a test plan, test cases, bug reports, and summary results.
 
-**Tools Used**
+## Tools Used
 
 Microsoft Excel / Google Sheets
 
@@ -12,7 +12,7 @@ Manual Testing Techniques
 
 ISTQB Testing Principles
 
-**Testing Scope**
+## Testing Scope
 
 Functional Testing
 
@@ -24,7 +24,7 @@ Regression Testing
 
 Edge Case Testing
 
-**Key Deliverables**
+## Key Deliverables
 
 Test Plan
 
@@ -36,7 +36,7 @@ Test Summary
 
 Traceability Matrix
 
-**Skills Demonstrated**
+## Skills Demonstrated
 
 Test case design
 
